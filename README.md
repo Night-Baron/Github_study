@@ -22,3 +22,5 @@ GIT 설치 방법
 GIT 버전 확인
 -----------
 터미널에서 `git --version`
+
+![3_git --version](https://user-images.githubusercontent.com/17330864/52937756-59282600-33a3-11e9-8ce0-b899f5e1cd7f.png)
